@@ -60,3 +60,48 @@ Functionality in a wireframe refers to the interactive elements that allow users
 
 * **Example:** A login screen wireframe would include placeholder text fields for "Email" and "Password," a "Login" button, and a "Forgot Password?" link. A search results page would show a search input field and a "Search" button.
 
+## Types of Wireframes
+
+Wireframes aren't a one-size-fits-all solution; they come in different levels of detail, known as fidelity. Choosing the right fidelity depends on the stage of the design process, the audience for the wireframe, and the feedback you're aiming to gather.
+
+### 1. Low-Fidelity Wireframes (Lo-Fi)
+
+Low-fidelity wireframes are the most basic and abstract representations of a design. They prioritize speed and broad conceptualization over detailed aesthetics.
+
+* **Characteristics:**
+    * Often hand-sketched on paper or created rapidly with simple digital tools.
+    * Use very basic shapes (rectangles, circles), lines, and placeholder text (e.g., "Lorem Ipsum" or "Image Placeholder").
+    * No colors, specific typography, or detailed graphics.
+    * Focus purely on layout, flow, and primary functionality.
+* **When Used:**
+    * **Early Ideation:** Perfect for brainstorming and quickly sketching out multiple ideas.
+    * **Concept Validation:** Great for getting initial feedback on basic user flows and overall structure without getting bogged down by visual details.
+    * **Internal Discussion:** Ideal for internal team discussions to quickly align on a core concept.
+    * **User Flow Mapping:** To visualize the sequence of screens a user would interact with.
+
+### 2. High-Fidelity Wireframes (Hi-Fi)
+
+High-fidelity wireframes are much more detailed and polished, closely resembling the final user interface, though they might still lack final styling elements like specific branding colors or rich imagery.
+
+* **Characteristics:**
+    * Created using digital tools (like Figma, Sketch, Adobe XD).
+    * Include more specific UI elements (e.g., actual icons, specific input field types, realistic button shapes).
+    * Often use grayscale or a limited color palette to indicate different interactive states.
+    * May include actual content or very realistic placeholder content.
+    * Can be interactive, allowing users to click through and simulate real-world interactions (making them closer to prototypes).
+* **When Used:**
+    * **Detailed Planning:** When the core concept is approved and you need to define precise interactions and element specifications.
+    * **Usability Testing:** For more realistic testing with users, as they provide a closer feel to the final product.
+    * **Developer Handoff:** To provide developers with a clear blueprint of how elements should behave and be structured.
+    * **Stakeholder Buy-in:** For presentations where stakeholders need to visualize the near-final product.
+ 
+### Analyzing the Figma Project: Project Airbnb
+
+Based on my observation of the Figma project linked (`https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=OLV2qTHsfIh0ksTe-0`), it clearly falls into the category of a **Prototype (or High-Fidelity Prototype)**.
+
+My reasoning for this classification is that the design includes:
+
+* **Specific Colors:** It uses a defined color palette, not just grayscale placeholders.
+* **Detailed Typography:** Distinct fonts, sizes, and styles are applied, indicating specific textual hierarchies and branding.
+* **Actual Images:** The presence of real or highly realistic images, rather than simple placeholders, makes the design feel complete.
+* **Finished Appearance:** It looks much like a final design ready for development, with polished UI elements and realistic content placement, rather than rough sketches or abstract shapes.
